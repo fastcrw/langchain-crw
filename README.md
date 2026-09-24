@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/pypi/pyversions/langchain-crw)](https://pypi.org/project/langchain-crw/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-LangChain document loader for [CRW](https://github.com/us/crw), a high-performance, Firecrawl-compatible web scraper written in Rust.
+LangChain document loader for [CRW](https://github.com/fastcrw/crw), a high-performance, Firecrawl-compatible web scraper written in Rust.
 
 ## Installation
 
@@ -62,7 +62,7 @@ curl -fsSL https://fastcrw.com/install | sh
 crw serve  # listens on http://localhost:3000
 
 # Option B: Docker
-docker run -d -p 3000:3000 ghcr.io/us/crw:latest
+docker run -d -p 3000:3000 ghcr.io/fastcrw/crw:latest
 ```
 
 ```python

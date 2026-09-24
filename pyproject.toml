@@ -39,10 +39,10 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/us/crw"
+Homepage = "https://github.com/fastcrw/crw"
 Documentation = "https://fastcrw.com"
-Repository = "https://github.com/us/langchain-crw"
-Issues = "https://github.com/us/langchain-crw/issues"
+Repository = "https://github.com/fastcrw/langchain-crw"
+Issues = "https://github.com/fastcrw/langchain-crw/issues"
 
 [tool.hatch.build.targets.wheel]
 packages = ["langchain_crw"]
