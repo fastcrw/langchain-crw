@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.5.1](https://github.com/fastcrw/langchain-crw/compare/v0.5.0...v0.5.1) (2026-09-24)
+
+
+### Bug Fixes
+
+* point repository links at the fastcrw org ([7109da7](https://github.com/fastcrw/langchain-crw/commit/7109da792d84b24ff616d1b5670f4ca0e07d8813))
+
 ## [0.5.0](https://github.com/us/langchain-crw/compare/v0.4.0...v0.5.0) (2026-08-01)
 
 
